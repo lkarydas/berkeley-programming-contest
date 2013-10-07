@@ -5,4 +5,4 @@ My solutions to problems from [The Annual Berkeley Programming Contest](http://w
 
 # Index
 
-* __optimal-morse-code__: Fall 2011, Problem 3. See description [here](http://www.cs.berkeley.edu/~hilfingr/programming-contest/f2011- contest.pdf#page=7/).
+* __optimal-morse-code__: Fall 2011, Problem 3. See description [here](http://www.cs.berkeley.edu/~hilfingr/programming-contest/f2011-contest.pdf#page=7/).
